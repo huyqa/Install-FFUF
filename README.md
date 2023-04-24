@@ -1,5 +1,7 @@
 # Install-FFUF
 ##Download go
+
+
 root@pentest-os:~# curl -OL https://golang.org/dl/go1.16.7.linux-amd64.tar.gz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
